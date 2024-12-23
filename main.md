@@ -45,7 +45,7 @@
 - Ansagen und Durchsagen
 
 #### Praxis
-- https://b1-deutsch.com/
+- https://b1-deutsch.com
 
 
 ## 3. Schriftlicher Ausdruck (max. 45 Punkte)
@@ -54,9 +54,9 @@
 #### Schreibaufgabe
 - Informelle oder halbformelle E-Mail
 
-#### Beispiele
+#### Links
 - https://ifu-institut.at/online-lernen/prufungsvorbereitung/prufungsvorbereitung-b1/schreiben/primery-pisem-na-razlichnye-temy-dlia-urovnia-b1
-
+- https://quizlet.com/de/karteikarten/b1-redemittel-schriftlicher-ausdruck-279645799
 
 ## 4. Mündlicher Ausdruck 
 ### Dauert 35 minuten (20 für die Vorbereitung + 15 für die Prüfung)
@@ -78,4 +78,6 @@
 
 
 ## Links
-- https://b1-deutsch.com/
+- https://b1-deutsch.com
+- https://gfarmak.wordpress.com/2011/02/16/redemittel-b1
+- https://github.com/ajeyln/deutsch_lernen
