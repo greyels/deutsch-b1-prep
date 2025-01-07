@@ -22,7 +22,7 @@
 - Notieren die Themen (3 Themen)
 - Lesen die Texte und finden die passenden Überschriften
 - Streichen die Überschrift durch, wenn sie passt
-- Ähnliche oder gleiche Wörter - das ist oft nicht richtige Lösung!
+- !!! Ähnliche oder gleiche Wörter - das ist oft nicht richtige Lösung
 
 #### Teil 2 - Multiple Choise (max. 25 Punkte, ~35 min)
 - Ein oder zwei Artikel aus Zeitung oder Internet
@@ -55,14 +55,25 @@
 ## 2. Hörverstehen (max. 75 Punkte)
 ### Dauert 30 minuten
 
-#### Teil 1 - Richtig/Falsch (max. 25 Punkte)
-- Aussagen verschiedener Personen
+#### Teil 1 - Richtig/Falsch (max. 25 Punkte, ~6 min)
+- 5 Aufgaben
+- 30 sec, um die Aufgaben zu lesen
+- Aussagen verschiedener Personen zum einem Thema
+- !!! Hören nur einmal
 
-#### Teil 2 - Richtig/Falsch (max. 25 Punkte)
-- Radiointerview mit einer Person
 
-#### Teil 3 - Richtig/Falsch (max. 25 Punkte)
-- Ansagen und Durchsagen
+#### Teil 2 - Richtig/Falsch (max. 25 Punkte, ~12 min)
+- Teil 2 kommt direct nach Teil 1 (15 sec Pause)
+- 10 Aufgaben
+- 1 min, um die Aufgaben zu lesen + 1 min zwischen Hören + 1 min danach
+- Radiointerview oder Gespräch mit einer Person
+- Hören zweimal
+
+#### Teil 3 - Richtig/Falsch (max. 25 Punkte, ~12 min)
+- Teil 3 kommt direct nach Teil 2 (15 sec Pause)
+- 5 Aufgaben
+- Nachrichten, Ansagen oder Durchsagen (kurze Texte)
+- Hören zweimal
 
 #### Praxis
 - https://b1-deutsch.com
@@ -71,8 +82,30 @@
 ## 3. Schriftlicher Ausdruck (max. 45 Punkte)
 ### Dauert 30 minuten
 
-#### Schreibaufgabe
-- Informelle oder halbformelle E-Mail
+#### Schreibaufgabe (nur ein Teil)
+- Informelle (Du/du) oder halbformelle (Sie) E-Mail
+- 4 Leitpunkten
+- Was ist bewertet
+  - Der Inhalt (max. 5 Punkte x 3)
+  - Die Kommunikative Gestaltung (max. 5 Punkte x 3)
+  - Die formale Richtigkeit (max. 5 Punkte x 3)
+- E-Mail besteht aus 4 Teilen
+  - Anrede
+  - Einleitung
+  - Schlusssatz
+  - Gruß
+- TIPPS
+  - Machen Abschnitte
+  - Beginnen nicht immer mit dem Subject (die Satzanfänge variiert)
+  - Schreiben nict nur in Hauptsätzen (HS + NS verwenden)
+- Prüfen
+  - Nach **dass, weil, als, obwohl** -> das Verb steht am Satzende (+ Komma)
+  - **Deshalb, trotzdem** -> stehen allein vor dem Verb
+  - **Und, denn** -> stehen vor dem ersten Satzteil
+  - Ob alle Verben in der richtigen Form sind
+  - Ob alle Nomen großgeschrieben sind
+- Nützliche Ausdrücke
+![img.png](static/schreiben-ausdruecke.png)
 
 #### Links
 - https://ifu-institut.at/online-lernen/prufungsvorbereitung/prufungsvorbereitung-b1/schreiben/primery-pisem-na-razlichnye-temy-dlia-urovnia-b1
@@ -81,15 +114,26 @@
 ## 4. Mündlicher Ausdruck 
 ### Dauert 35 minuten (20 für die Vorbereitung + 15 für die Prüfung)
 
-#### Teil 1 - Einander kennenlernen / Über mich (max. 15 Punkte)
+#### Teil 1 - Einander kennenlernen / Über mich (max. 15 Punkte, ~3 min)
+- Aufgabenblatt mit Fragen zu Person
 - Vorbereiten und zu Hause im Voraus lernen
+- Mögliche Zusatzthemen für Prüfende sind
+  - Wie er od er sie das Wochenende verbringt
+  - Welche Hobbys er oder sie hat
+- Nützliche Ausdrücke
+![img.png](static/sprechen-ausdruecke-1.png)
 
-#### Teil 2 - Gespräch über ein Thema (max. 15 Punkte)
-- Oder Bild beschreiben???
+#### Teil 2 - Gespräch über ein Thema (max. 15 Punkte, ~6 min)
+- Aufgabenblatt mit einem Text und einem Foto
+- Nützliche Ausdrücke
+![img.png](static/sprechen-ausdruecke-2-1.png)
+![img.png](static/sprechen-ausdruecke-2-2.png)
 
-#### Teil 3 - Gemeinsam etwas planen / Dialog (max. 15 Punkte)
+#### Teil 3 - Gemeinsam etwas planen / Dialog (max. 15 Punkte, ~6 min)
+- Aufgabenblatt mit einer Situation und Stichpunkten dazu
 - Redemittel: https://www.wattpad.com/126795221-deutsch-lernen-b1-redemittel-um-etwas-zusammen-zu
-
+- Nützliche Ausdrücke
+![img.png](static/sprechen-ausdruecke-3.png)
 
 ## Wortschatz 
 
