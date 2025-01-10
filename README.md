@@ -122,6 +122,9 @@
   - Welche Hobbys er oder sie hat
 - Nützliche Ausdrücke
 ![img.png](static/sprechen-ausdruecke-1.png)
+- Mein Vorstellung
+![img_1.png](static/sprechen-vorstellung-1.png)
+![img_1.png](static/sprechen-vorstellung-2.png)
 
 #### Teil 2 - Gespräch über ein Thema (max. 15 Punkte, ~6 min)
 - Aufgabenblatt mit einem Text und einem Foto
