@@ -148,3 +148,4 @@
 - https://b1-deutsch.com
 - https://gfarmak.wordpress.com/2011/02/16/redemittel-b1
 - https://github.com/ajeyln/deutsch_lernen
+- https://www.youtube.com/@BenjaminDerDeutschlehrer
