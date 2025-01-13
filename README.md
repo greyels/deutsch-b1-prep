@@ -15,7 +15,7 @@
 ### 1) Leseverstehen (max. 75 Punkte)
 #### Dauert ~70 minuten
 
-#### Teil 1 - Zuordnung (max. 25 Punkte, ~20 min)
+#### Teil 1 - Globalverstehen - Zuordnung (max. 25 Punkte, ~20 min)
 - 5 Texte <-> 10 Überschriften
 - 5 Überschriften sind übrig
 - Alle Überschriften zu drei Themen
@@ -24,29 +24,29 @@
 - Streichen die Überschrift durch, wenn sie passt
 - !!! Ähnliche oder gleiche Wörter - das ist oft nicht richtige Lösung
 
-#### Teil 2 - Multiple Choise (max. 25 Punkte, ~35 min)
+#### Teil 2 - Detailverstehen - Multiple Choise (max. 25 Punkte, ~35 min)
 - Ein oder zwei Artikel aus Zeitung oder Internet
 - Funf Aufgaben - die Wahl zwischen A, B oder C
 - Lesen die Überschrift/Thema -> lesen die Aufgabe -> markieren die passenden Sätze im Text
-- Die Aufgaben stehen normalerweise in der Reihenfolge des Textes
+- Die Aufgaben stehen normalerweise in der Reihenfolge des Textes, abet nicht immer!
 
-#### Teil 3 - Zuordnung (max. 25 Punkte, ~15 min)
+#### Teil 3 - Selektives Verstehen - Zuordnung (max. 25 Punkte, ~15 min)
 - 12 Kleinanzeigen <-> 10 Situationen
 - 2 Anzeigen passen zu keiner Situation (sind übrig)
 - Die Anzeigen zuerst schnell durchlesen
 - Lesen die Situationen nacheinander -> die Schlüsselwörter markieren -> finden die passende Anzeige
-- Eine oder zwei Situation hat keine passende Anzeige -> markieren mit "x"
+- Eine, zwei oder drei Situationen haben keine passende Anzeige -> markieren mit "x"
 
 ### 2) Sprachbausteine (max. nur 30 Punkte!)
 #### Dauert ~20 minuten
 
-#### Teil 1 - Multiple Choise (max. 15 Punkte, ~10 min)
+#### Teil 1 - Grammatische Formen - Multiple Choise (max. 15 Punkte, ~10 min)
 - 10 Aufgaben zur Grammatik
 - Persönlicher Brief mit Lücken
 - Die Wahl zwischen A, B oder C
 - Versuchen, die Aufgaben spontan zu lösen
 
-#### Teil 2 - Zuordnung (max. 15 Punkte, ~10 min)
+#### Teil 2 - Wortschatz und Textverknüpfungen - Zuordnung (max. 15 Punkte, ~10 min)
 - 10 Aufgaben zum Wortschatz
 - Offizieller/Formeller Brief und Anzeige mit Lücken
 - 10 Lücken und 15 Wörter zu auswählen (5 Wörter sind übrig)
