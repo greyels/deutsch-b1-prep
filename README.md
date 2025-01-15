@@ -55,21 +55,20 @@
 ## 2. Hörverstehen (max. 75 Punkte)
 ### Dauert 30 minuten
 
-#### Teil 1 - Richtig/Falsch (max. 25 Punkte, ~6 min)
+#### Teil 1 - Globalverstehen - Richtig/Falsch (max. 25 Punkte, ~6 min)
 - 5 Aufgaben
 - 30 sec, um die Aufgaben zu lesen
 - Aussagen verschiedener Personen zum einem Thema
 - !!! Hören nur einmal
 
-
-#### Teil 2 - Richtig/Falsch (max. 25 Punkte, ~12 min)
+#### Teil 2 - Detailverstehen - Richtig/Falsch (max. 25 Punkte, ~12 min)
 - Teil 2 kommt direct nach Teil 1 (15 sec Pause)
 - 10 Aufgaben
 - 1 min, um die Aufgaben zu lesen + 1 min zwischen Hören + 1 min danach
 - Radiointerview oder Gespräch mit einer Person
 - Hören zweimal
 
-#### Teil 3 - Richtig/Falsch (max. 25 Punkte, ~12 min)
+#### Teil 3 - Selektives Verstehen - Richtig/Falsch (max. 25 Punkte, ~12 min)
 - Teil 3 kommt direct nach Teil 2 (15 sec Pause)
 - 5 Aufgaben
 - Nachrichten, Ansagen oder Durchsagen (kurze Texte)
@@ -85,6 +84,7 @@
 #### Schreibaufgabe (nur ein Teil)
 - Informelle (Du/du) oder halbformelle (Sie) E-Mail
 - 4 Leitpunkten
+- Maximal 150 Wörter
 - Was ist bewertet
   - Der Inhalt (max. 5 Punkte x 3)
   - Die Kommunikative Gestaltung (max. 5 Punkte x 3)
@@ -97,6 +97,7 @@
 - TIPPS
   - Machen Abschnitte
   - Beginnen nicht immer mit dem Subject (die Satzanfänge variiert)
+    - Beginne mit: außerdem, vieleicht, gern, natürlich oder mit einem Nebensatz
   - Schreiben nict nur in Hauptsätzen (HS + NS verwenden)
 - Prüfen
   - Nach **dass, weil, als, obwohl** -> das Verb steht am Satzende (+ Komma)
@@ -105,11 +106,16 @@
   - Ob alle Verben in der richtigen Form sind
   - Ob alle Nomen großgeschrieben sind
 - Nützliche Ausdrücke
-![img.png](static/schreiben-ausdruecke.png)
+![img.png](static/schreiben-ausdruecke-1.png)
+- Persönlicher Brief
+![img_1.png](static/schreiben-ausdruecke-2.png)
+- Halbformeller Brief
+![img_2.png](static/schreiben-ausdruecke-3.png)
 
 #### Links
 - https://ifu-institut.at/online-lernen/prufungsvorbereitung/prufungsvorbereitung-b1/schreiben/primery-pisem-na-razlichnye-temy-dlia-urovnia-b1
 - https://quizlet.com/de/karteikarten/b1-redemittel-schriftlicher-ausdruck-279645799
+
 
 ## 4. Mündlicher Ausdruck 
 ### Dauert 35 minuten (20 für die Vorbereitung + 15 für die Prüfung)
@@ -139,8 +145,8 @@
 - Nützliche Ausdrücke
 ![img.png](static/sprechen-ausdruecke-3.png)
 
-## Wortschatz 
 
+## Wortschatz
 - [Quizlet](https://quizlet.com/ch/417069360/telc-b1-wortschatz-flash-cards)
 - [TELC_Einfach_gut_B1_Wortschatzliste](https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Wortschatzlisten/Einfach_gut_B1_Wortschatzliste_alphabetisch.pdf)
 
