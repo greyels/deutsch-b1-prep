@@ -111,6 +111,7 @@
 ![img_1.png](static/schreiben-ausdruecke-2.png)
 - Halbformeller Brief
 ![img_2.png](static/schreiben-ausdruecke-3.png)
+- [Die Beispiele](schreiben_beispiele.md)
 
 #### Links
 - https://ifu-institut.at/online-lernen/prufungsvorbereitung/prufungsvorbereitung-b1/schreiben/primery-pisem-na-razlichnye-temy-dlia-urovnia-b1
