@@ -164,3 +164,60 @@
 - https://gfarmak.wordpress.com/2011/02/16/redemittel-b1
 - https://github.com/ajeyln/deutsch_lernen
 - https://www.youtube.com/@BenjaminDerDeutschlehrer
+
+---
+
+# Leben in Deutschland / Einbürgerungstest
+
+## Wortschatz
+- das Grundgesetz – основной закон (Конституция) Германии
+- die Grundrechten – основные права
+- die Verfassung - конституция, основополагающий закон
+- die Regierung - правительство
+- die Gemeindeverwaltung – муниципальное управление
+- die Menschenwürde – достоинство человека
+- die Meinungsfreiheit – свобода мнения, свобода слова
+- die Sozialversicherungen – социальное страхование
+  - die Krankenversicherung – медицинское страхование
+  - die Rentenversicherung – пенсионное страхование
+  - die Arbeitslosenversicherung – страхование от безработицы
+  - die Pflegeversicherung – страхование по уходу
+  - die Unfallversicherung – страхование от несчастных случаев
+- die Gewalt - власть, сила
+  - die Legislative - законодательная власть
+  - die Judikative - судебная власть
+  - die Exekutive - исполнительная власть
+- das Wahlrecht – избирательное право
+- der Mindestanteil – минимальная доля, минимальный процент 
+- die Hürde – барьер, препятствие
+- die Prügelstrafe – побои в качестве наказания, наказание побоями
+- die Kündigungsschutzklage – иск о защите от увольнения
+- der Umstand – обстоятельство, фактор, условие
+- die Versorgung – обеспечение, снабжение
+- die Bevölkerung – население
+- die Schöffin – судья присяжный
+- der Richter - судья
+- die Schuld – вина, долг
+- der NS-Staat – государство нацистской Германии (Нацистский режим)
+- DDR – Deutsche Demokratische Republik (Германская Демократическая Республика)
+- der Anspruch – претензия, требование, право
+- das Schweigerecht – право на молчание
+- das Briefgeheimnis – тайна переписки
+- der Außenminister – министр иностранных дел
+
+- gelten (gilt, galt, hat gegolten) - считаться, быть действительным
+- ernennen - назначать
+- erheben - взимать, поднимать, предъявлять (исковое заявление), собирать
+- versorgen - обеспечивать, снабжать
+- leugnen - отрицать, отвергать
+- kennzeichnen - обозначать, отмечать, характеризовать
+- austauschen – обменивать, меняться
+- reklamieren – жаловаться, предъявлять претензию
+
+
+- fest angestellt - на постоянной основе, с постоянным трудовым контрактом
+- staatlich - государственный
+
+## Links
+- [Fragenkatalog](https://oet.bamf.de/ords/oetut/f?p=534:1::::::)
+- [Mustertest](https://oet.bamf.de/ords/oetut/f?p=532:2::::::)
